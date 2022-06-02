@@ -14,6 +14,6 @@ This project aims to understand how similar or dissimilar the TNF gene is across
 
 Files:
 - analyzing_similarity_of_TNFgenes_in_humans_and_primates.ipynb
-- analyzing_similarity_of_TNFgenes_in_humans_and_primates_report.docx
+- Report.pdf
 
 
